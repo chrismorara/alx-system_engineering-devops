@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+Learning shell basics one step at a time.
