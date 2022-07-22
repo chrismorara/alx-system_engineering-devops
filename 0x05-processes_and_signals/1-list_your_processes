@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Bash script that displays a list of currently running processes
+#Requirements:
+#+ Display all users processes
+#+ Display all processes that do have TTY (teletype)
+#+ Display in a user-oriented format
+#+ Display process hierarchy
+
+ps -auxf 
